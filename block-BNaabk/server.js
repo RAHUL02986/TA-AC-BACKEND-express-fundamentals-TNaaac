@@ -8,7 +8,7 @@ app.use((req, res, next) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Welcome');
+  res.send('Welcome to express');
 });
 
 app.listen(3000, () => {
