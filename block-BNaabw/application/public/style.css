@@ -1,0 +1,23 @@
+html{
+    font-size: 16px;
+}
+
+body{
+    line-height: 1.5;
+    background-color: bisque;
+
+
+}
+
+h1{
+    font-size: 3rem;
+    color: skyblue;
+    text-align: center;
+
+}
+
+img{
+    width: 80%;
+    margin-left: 10%;
+    height: 80vh;
+}
